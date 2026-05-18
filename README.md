@@ -24,7 +24,7 @@ Presiona las teclas `Win + R`, escribe lo siguiente y dale a **Enter**:
 Mueve **todos** los archivos `.jar` que descargaste de este repositorio directamente a esa carpeta. 
 *Si ya tienes otros mods, te recomiendo borrarlos o moverlos a otra carpeta para evitar conflictos.*
 
-### 🎮 3. Iniciar el Juego
+### 3. Iniciar el Juego
 Abre tu Launcher y selecciona el perfil de **Fabric** (o el cargador que indique la carpeta) en la versión exacta de los mods.
 
 ---
